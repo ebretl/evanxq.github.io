@@ -1,5 +1,7 @@
 html {
     font-size: 16px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }
 
 body {
@@ -59,9 +61,17 @@ h3 {
 .c5 {width: 20%;}
 .c2 {width: 50%;}
 
+.projectRow {
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.projectImg {
+    width: 55vmin;
+}
+
 p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: normal;
     color: #c8c8c8;
     text-align: center;
@@ -73,6 +83,23 @@ p a {
     color: #c8c8c8;
 }
 
-.iconimg {
-    width: 10%;
+#icons img {
+    width: 15vmin;
+    padding-left: 3vmin;
+    padding-right: 3vmin;
+}
+.projectIcon {
+    width: 12vmin;
+}
+
+#resume {
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 5vh;
+    width: 90%;
+}
+
+#downloadResume {
+    padding-top: 2vh;
+    color: inherit;
 }
