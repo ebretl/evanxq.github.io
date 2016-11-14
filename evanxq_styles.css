@@ -1,23 +1,33 @@
 body {
     background-color: #1a1a1a;
-    max-width:1200px;
+    max-width:1000px;
     margin-left: auto;
     margin-right: auto;
     font-size: 16px;
     text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+}
+
+header {
+    background-image: url("img/Dragonfish600.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
 }
 
 h1 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 250%;
-    text-align: center;
+    font-size: 3rem;
     color: #0fffa5;
+    margin-top: 0;
+    padding-top: 1rem;
 }
 
 h2 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 150%;
-    text-align: center;
+    font-size: 1.5rem;
     color: #0fffa5;
 }
 
@@ -25,8 +35,7 @@ h2 a {color: #0fffa5;}
 
 h3 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 150%;
-    text-align: center;
+    font-size: 2rem;
     color: #0fffa5;
 }
 
@@ -49,7 +58,7 @@ h3 {
 
 p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 120%;
+    font-size: 1.4rem;
     color: #c8c8c8;
     text-align: center;
     margin-left: 4%;
@@ -60,9 +69,6 @@ p a {
     color: #c8c8c8;
 }
 
-.headerimg {
-    width: 32%;
-}
 .iconimg {
     width: 10%;
 }
