@@ -19,15 +19,15 @@ header {
 
 h1 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 2.6em;
+    font-size: 2.6rem;
     color: #0fffa5;
     margin-top: 0;
-    padding-top: 1em;
+    padding-top: 1rem;
 }
 
 h2 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     color: #0fffa5;
 }
 
@@ -35,7 +35,7 @@ h2 a {color: #0fffa5;}
 
 h3 {
     font-family: 'Source Code Pro', monospace;
-    font-size: 1.5em;
+    font-size: 2rem;
     color: #0fffa5;
 }
 
@@ -58,7 +58,7 @@ h3 {
 
 p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4em;
+    font-size: 1.4rem;
     color: #c8c8c8;
     text-align: center;
     margin-left: 4%;
